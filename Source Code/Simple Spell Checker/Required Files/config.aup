@@ -1,0 +1,3 @@
+APPLICATION_NAME=Simple Spell Checker
+EXECUTABLE=Simple Spell Checker.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Simple Spell Checker/manifest.xml
